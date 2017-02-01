@@ -4,7 +4,7 @@ Hellow everybody!
 
 This repo will be your compas through all our activities related to Angular Slovenia meetup. If you wish to be notified about changes and updates, subscribe to this repository.
 
-![Watch](https://cloud.githubusercontent.com/assets/9574457/22525492/a75addbe-e8c7-11e6-9dea-cc6812324073.gif)
+![Watch](https://cloud.githubusercontent.com/assets/9574457/22525827/2d0fc0d6-e8c9-11e6-92b4-572102e5a305.gif)
 
 
 If you have any questions please don't hesitate to reach out:
