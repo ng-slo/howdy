@@ -20,6 +20,8 @@ If you have any questions please don't hesitate to reach out:
 
 ## Workshops
 
+TODO - add explanation
+
 * 07.03.2017 at 18:00 - Basic tools
 * 14.03.2017 at 18:00 - ES6 & Typescript
 * 21.03.2017 at 18:00 - RxJS
@@ -27,6 +29,8 @@ If you have any questions please don't hesitate to reach out:
 * 13.03.2017 at 18:00 - webpack (Theoretical party by a core member of webpack team [Sean Larkin](https://twitter.com/thelarkinn))
 
 ## Meetups
+
+TODO - add CP link and explanation
 
 Please join our [Meetup group](https://www.meetup.com/ng-slo/) and RSV to upcoming events.
 
