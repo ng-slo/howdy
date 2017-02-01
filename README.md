@@ -12,11 +12,11 @@ If you have any questions please don't hesitate to reach out:
 [Slack](https://jsmeetlj.slack.com)
 
 ## Important links
-[Meetup group](https://www.meetup.com/ng-slo/)
-[Presentations from meetups/workshops](https://slides.com/ng-slo)
-[Code from meetups](https://github.com/ng-slo/meetup-material)
-[Code from workshops](https://github.com/ng-slo/meetup-material)
-[Plans for workshops](https://github.com/ng-slo/workshop-planing)
+* [Meetup group](https://www.meetup.com/ng-slo/)
+* [Presentations from meetups/workshops](https://slides.com/ng-slo)
+* [Code from meetups](https://github.com/ng-slo/meetup-material)
+* [Code from workshops](https://github.com/ng-slo/meetup-material)
+* [Plans for workshops](https://github.com/ng-slo/workshop-planing)
 
 ## Workshops
 
