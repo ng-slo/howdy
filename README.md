@@ -20,5 +20,16 @@ If you have any questions please don't hesitate to reach out:
 
 ## Workshops
 
+* 07.03.2017 at 18:00 - Basic tools
+* 14.03.2017 at 18:00 - ES6 & Typescript
+* 21.03.2017 at 18:00 - RxJS
+* 28.03.2017 at 18:00 - Angular CLI (Theoretical party by a core member of Angular CLI team [Mike Brocchi](https://twitter.com/brocco))
+* 13.03.2017 at 18:00 - webpack (Theoretical party by a core member of webpack team [Sean Larkin](https://twitter.com/thelarkinn))
 
 ## Meetups
+
+Please join our [Meetup group](https://www.meetup.com/ng-slo/) and RSV to upcoming events.
+
+* [24.1.2017 - First Angular Slovenia meetup](https://www.meetup.com/ng-slo/events/236843238/)
+  * [Slides](http://slides.com/ng-slo/introduction#/)
+  * [Demo](https://github.com/ng-slo/meetup-material/tree/master/24.01.2017)
