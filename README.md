@@ -26,7 +26,7 @@ TODO - add explanation
 * 14.03.2017 at 18:00 - ES6 & Typescript
 * 21.03.2017 at 18:00 - RxJS
 * 28.03.2017 at 18:00 - Angular CLI (Theoretical party by a core member of Angular CLI team [Mike Brocchi](https://twitter.com/brocco))
-* 13.03.2017 at 18:00 - webpack (Theoretical party by a core member of webpack team [Sean Larkin](https://twitter.com/thelarkinn))
+* 13.04.2017 at 18:00 - webpack (Theoretical party by a core member of webpack team [Sean Larkin](https://twitter.com/thelarkinn))
 
 ## Meetups
 
