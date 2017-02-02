@@ -31,11 +31,11 @@ TODO - add explanation
 * 21.03.2017 at 18:00 - RxJS
  * Theoretical:  [@denkomanceski](https://github.com/denkomanceski)
  * Practical: [@nejczdovc](https://github.com/NejcZdovc) [@denkomanceski](https://github.com/denkomanceski)
-* 28.03.2017 at 18:00 - Angular CLI (Theoretical party by a core member of Angular CLI team [Mike Brocchi](https://twitter.com/brocco))
- * Theoretical: [@Brocco](https://github.com/Brocco)
+* 28.03.2017 at 18:00 - Angular CLI
+ * Theoretical: [@Brocco](https://github.com/Brocco) (core member of Angular CLI team)
  * Practical: [@nejczdovc](https://github.com/NejcZdovc) [@denkomanceski](https://github.com/denkomanceski)
-* 13.04.2017 at 18:00 - webpack (Theoretical party by a core member of webpack team [Sean Larkin](https://twitter.com/thelarkinn))
- * Theoretical: [@TheLarkInn](https://github.com/TheLarkInn)
+* 13.04.2017 at 18:00 - webpack
+ * Theoretical: [@TheLarkInn](https://github.com/TheLarkInn) (core member of webpack team)
  * Practical: [@nejczdovc](https://github.com/NejcZdovc) [@denkomanceski](https://github.com/denkomanceski)
 
 ## Meetups
