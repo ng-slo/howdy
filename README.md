@@ -23,10 +23,20 @@ If you have any questions please don't hesitate to reach out:
 TODO - add explanation
 
 * 07.03.2017 at 18:00 - Basic tools
+ * Theoretical: @nejczdovc
+ * Practical: @nejczdovc @denkomanceski
 * 14.03.2017 at 18:00 - ES6 & Typescript
+ * Theoretical: @nejczdovc
+ * Practical: @nejczdovc @denkomanceski
 * 21.03.2017 at 18:00 - RxJS
+ * Theoretical: @denkomanceski
+ * Practical: @nejczdovc @denkomanceski
 * 28.03.2017 at 18:00 - Angular CLI (Theoretical party by a core member of Angular CLI team [Mike Brocchi](https://twitter.com/brocco))
+ * Theoretical: @Brocco
+ * Practical: @nejczdovc @denkomanceski
 * 13.04.2017 at 18:00 - webpack (Theoretical party by a core member of webpack team [Sean Larkin](https://twitter.com/thelarkinn))
+ * Theoretical: @TheLarkInn
+ * Practical: @nejczdovc @denkomanceski
 
 ## Meetups
 
