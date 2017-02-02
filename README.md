@@ -23,20 +23,20 @@ If you have any questions please don't hesitate to reach out:
 TODO - add explanation
 
 * 07.03.2017 at 18:00 - Basic tools
- * Theoretical: @nejczdovc
- * Practical: @nejczdovc @denkomanceski
+ * Theoretical: [@nejczdovc](https://github.com/NejcZdovc)
+ * Practical: [@nejczdovc](https://github.com/NejcZdovc) [@denkomanceski](https://github.com/denkomanceski)
 * 14.03.2017 at 18:00 - ES6 & Typescript
- * Theoretical: @nejczdovc
- * Practical: @nejczdovc @denkomanceski
+ * Theoretical: [@nejczdovc](https://github.com/NejcZdovc)
+ * Practical: [@nejczdovc](https://github.com/NejcZdovc) [@denkomanceski](https://github.com/denkomanceski)
 * 21.03.2017 at 18:00 - RxJS
- * Theoretical: @denkomanceski
- * Practical: @nejczdovc @denkomanceski
+ * Theoretical:  [@denkomanceski](https://github.com/denkomanceski)
+ * Practical: [@nejczdovc](https://github.com/NejcZdovc) [@denkomanceski](https://github.com/denkomanceski)
 * 28.03.2017 at 18:00 - Angular CLI (Theoretical party by a core member of Angular CLI team [Mike Brocchi](https://twitter.com/brocco))
- * Theoretical: @Brocco
- * Practical: @nejczdovc @denkomanceski
+ * Theoretical: [@Brocco](https://github.com/Brocco)
+ * Practical: [@nejczdovc](https://github.com/NejcZdovc) [@denkomanceski](https://github.com/denkomanceski)
 * 13.04.2017 at 18:00 - webpack (Theoretical party by a core member of webpack team [Sean Larkin](https://twitter.com/thelarkinn))
- * Theoretical: @TheLarkInn
- * Practical: @nejczdovc @denkomanceski
+ * Theoretical: [@TheLarkInn](https://github.com/TheLarkInn)
+ * Practical: [@nejczdovc](https://github.com/NejcZdovc) [@denkomanceski](https://github.com/denkomanceski)
 
 ## Meetups
 
