@@ -47,6 +47,6 @@ TODO - add CP link and explanation
 
 Please join our [Meetup group](https://www.meetup.com/ng-slo/) and RSV to upcoming events.
 
-### [24.1.2017 - First Angular Slovenia meetup](https://www.meetup.com/ng-slo/events/236843238/)
+#### [24.1.2017 - First Angular Slovenia meetup](https://www.meetup.com/ng-slo/events/236843238/)
   * [Slides](http://slides.com/ng-slo/introduction#/)
   * [Demo](https://github.com/ng-slo/meetup-material/tree/master/24.01.2017)
