@@ -1,6 +1,6 @@
 # Angular Slovenia
 
-Hellow everybody!
+Hello everybody!
 
 This repo will be your compass through all our activities related to Angular Slovenia meetup. If you wish to be notified about changes and updates, subscribe to this repository.
 
