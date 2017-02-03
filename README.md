@@ -21,7 +21,7 @@ If you have any questions please don't hesitate to reach out:
 
 TODO - add explanation
 
-### 07.03.2017 at 18:00 - Basic tools
+#### 07.03.2017 at 18:00 - Basic tools
 * Theoretical: [@nejczdovc](https://github.com/NejcZdovc)
 * Practical: [@nejczdovc](https://github.com/NejcZdovc) [@denkomanceski](https://github.com/denkomanceski)
 * 14.03.2017 at 18:00 - ES6 & Typescript
