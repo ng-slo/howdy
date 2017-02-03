@@ -22,20 +22,20 @@ If you have any questions please don't hesitate to reach out:
 TODO - add explanation
 
 #### 07.03.2017 at 18:00 - Basic tools
-* Theoretical: [@nejczdovc](https://github.com/NejcZdovc)
-* Practical: [@nejczdovc](https://github.com/NejcZdovc) [@denkomanceski](https://github.com/denkomanceski)
-* 14.03.2017 at 18:00 - ES6 & Typescript
- * Theoretical: [@nejczdovc](https://github.com/NejcZdovc)
- * Practical: [@nejczdovc](https://github.com/NejcZdovc) [@denkomanceski](https://github.com/denkomanceski)
-* 21.03.2017 at 18:00 - RxJS
- * Theoretical:  [@denkomanceski](https://github.com/denkomanceski)
- * Practical: [@nejczdovc](https://github.com/NejcZdovc) [@denkomanceski](https://github.com/denkomanceski)
-* 28.03.2017 at 18:00 - Angular CLI
- * Theoretical: [@Brocco](https://github.com/Brocco) (core member of Angular CLI team)
- * Practical: [@nejczdovc](https://github.com/NejcZdovc) [@denkomanceski](https://github.com/denkomanceski)
-* 13.04.2017 at 18:00 - webpack
- * Theoretical: [@TheLarkInn](https://github.com/TheLarkInn) (core member of webpack team)
- * Practical: [@nejczdovc](https://github.com/NejcZdovc) [@denkomanceski](https://github.com/denkomanceski)
+* Theoretical part: [@nejczdovc](https://github.com/NejcZdovc)
+* Practical part: [@nejczdovc](https://github.com/NejcZdovc) [@denkomanceski](https://github.com/denkomanceski)
+#### 14.03.2017 at 18:00 - ES6 & Typescript
+* Theoretical part: [@nejczdovc](https://github.com/NejcZdovc)
+* Practical part: [@nejczdovc](https://github.com/NejcZdovc) [@denkomanceski](https://github.com/denkomanceski)
+#### 21.03.2017 at 18:00 - RxJS
+* Theoretical part:  [@denkomanceski](https://github.com/denkomanceski)
+* Practical part: [@nejczdovc](https://github.com/NejcZdovc) [@denkomanceski](https://github.com/denkomanceski)
+####* 28.03.2017 at 18:00 - Angular CLI
+* Theoretical part: [@Brocco](https://github.com/Brocco) (core member of Angular CLI team)
+* Practical part: [@nejczdovc](https://github.com/NejcZdovc) [@denkomanceski](https://github.com/denkomanceski)
+#### 13.04.2017 at 18:00 - webpack
+* Theoretical part: [@TheLarkInn](https://github.com/TheLarkInn) (core member of webpack team)
+* Practical part: [@nejczdovc](https://github.com/NejcZdovc) [@denkomanceski](https://github.com/denkomanceski)
 
 ## Meetups
 
