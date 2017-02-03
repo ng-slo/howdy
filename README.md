@@ -14,17 +14,16 @@ If you have any questions please don't hesitate to reach out:
 ## Important links
 * [Meetup group](https://www.meetup.com/ng-slo/)
 * [Presentations from meetups/workshops](https://slides.com/ng-slo)
-* [Code from meetups](https://github.com/ng-slo/meetup-material)
-* [Code from workshops](https://github.com/ng-slo/meetup-material)
-* [Plans for workshops](https://github.com/ng-slo/workshop-planing)
+* [Meetup code](https://github.com/ng-slo/meetup)
+* [Workshop code](https://github.com/ng-slo/workshop)
 
 ## Workshops
 
 TODO - add explanation
 
-* 07.03.2017 at 18:00 - Basic tools
- * Theoretical: [@nejczdovc](https://github.com/NejcZdovc)
- * Practical: [@nejczdovc](https://github.com/NejcZdovc) [@denkomanceski](https://github.com/denkomanceski)
+### 07.03.2017 at 18:00 - Basic tools
+* Theoretical: [@nejczdovc](https://github.com/NejcZdovc)
+* Practical: [@nejczdovc](https://github.com/NejcZdovc) [@denkomanceski](https://github.com/denkomanceski)
 * 14.03.2017 at 18:00 - ES6 & Typescript
  * Theoretical: [@nejczdovc](https://github.com/NejcZdovc)
  * Practical: [@nejczdovc](https://github.com/NejcZdovc) [@denkomanceski](https://github.com/denkomanceski)
