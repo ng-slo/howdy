@@ -24,19 +24,19 @@ Maybe you've just heard of Angular or maybe you are a pro, everyone is welcome. 
 
 For all workshops, we will record theoretical part and upload slides. Recordings can be found on our [YouTube channel](https://www.youtube.com/channel/UCV7pUIUwOPPZpTUJufxZNLg). Exercises from practical part will be uploaded into [workshop repository](https://github.com/ng-slo/workshop) with a solution for them. This way if you can't attend a workshop, you can do it at home and if you will have any questions you can ask them on the next workshop.
 
-#### 07.03.2017 at 18:00 - Basic tools
+#### 07.03.2017 at 18:00 at Marand - Basic tools
 * Theoretical part: [@nejczdovc](https://github.com/NejcZdovc)
 * Practical part: [@nejczdovc](https://github.com/NejcZdovc) [@denkomanceski](https://github.com/denkomanceski)
 
-#### 14.03.2017 at 18:00 - ES6 & Typescript
+#### 14.03.2017 at 18:00 at Marand - ES6 & Typescript
 * Theoretical part: [@nejczdovc](https://github.com/NejcZdovc)
 * Practical part: [@nejczdovc](https://github.com/NejcZdovc) [@denkomanceski](https://github.com/denkomanceski)
 
-#### 21.03.2017 at 18:00 - RxJS
+#### 21.03.2017 at 18:00 at Marand - RxJS
 * Theoretical part:  [@denkomanceski](https://github.com/denkomanceski)
 * Practical part: [@nejczdovc](https://github.com/NejcZdovc) [@denkomanceski](https://github.com/denkomanceski)
 
-#### 28.03.2017 at 18:00 - Angular CLI
+#### 28.03.2017 at 18:00 at Marand - Angular CLI
 * Theoretical part: [@Brocco](https://github.com/Brocco) (core member of Angular CLI team)
 * Practical part: [@nejczdovc](https://github.com/NejcZdovc) [@denkomanceski](https://github.com/denkomanceski)
 
@@ -45,6 +45,9 @@ For all workshops, we will record theoretical part and upload slides. Recordings
 * Practical part: [@nejczdovc](https://github.com/NejcZdovc) [@denkomanceski](https://github.com/denkomanceski)
 
 #### more workshops comming soon...
+
+Locations:
+* Marand - [Google maps](https://www.google.si/maps/place/Marand+d.o.o./@46.0328344,14.4834776,15z/data=!4m5!3m4!1s0x0:0x17ef4f29b9506011!8m2!3d46.0328344!4d14.4834776)
 
 ## Meetups
 
