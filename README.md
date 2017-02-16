@@ -29,7 +29,7 @@ For all workshops, we will record theoretical part and upload slides. Recordings
 * Practical part: [@nejczdovc](https://github.com/NejcZdovc) [@denkomanceski](https://github.com/denkomanceski)
 
 #### 14.03.2017 at 18:00 at Marand - ES6 & Typescript
-* Theoretical part: [@nejczdovc](https://github.com/NejcZdovc)
+* Theoretical part: [@nejczdovc](https://github.com/NejcZdovc) && [@rokburgar](https://github.com/rokburgar) (Celtra)
 * Practical part: [@nejczdovc](https://github.com/NejcZdovc) [@denkomanceski](https://github.com/denkomanceski)
 
 #### 21.03.2017 at 18:00 at Marand - RxJS
