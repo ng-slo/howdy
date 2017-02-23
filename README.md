@@ -46,16 +46,16 @@ For all workshops, we will record theoretical part and upload slides. Recordings
 
 #### more workshops comming soon...
 
-## Locations
-
-### Marand
-[Google maps](https://www.google.si/maps/place/Marand+d.o.o./@46.0328344,14.4834776,15z/data=!4m5!3m4!1s0x0:0x17ef4f29b9506011!8m2!3d46.0328344!4d14.4834776) - Koprska ulica 100 (use street number 98 when using a navigation), Ljubljana
-
 ## Meetups
 
 Please join our [Meetup group](https://www.meetup.com/ng-slo/) and RSV to upcoming events.
 
 We will have meetups every 3 months. We will have talks and light talks, what is more, we will discuss what's currently happening on the Angular scene. Everyone is more than welcome to present a topic. Here is a **[submission form](https://docs.google.com/forms/d/e/1FAIpQLScTxdDM714_edJDJwxYlLBId-oee3OYTGls9j2rzD5KyiF4QQ/viewform)** for your talk. Don't wait, next meetup is approaching with a lightning speed.
+
+## Locations
+
+### Marand
+[Google maps](https://www.google.si/maps/place/Marand+d.o.o./@46.0328344,14.4834776,15z/data=!4m5!3m4!1s0x0:0x17ef4f29b9506011!8m2!3d46.0328344!4d14.4834776) - Koprska ulica 100 (use street number 98 when using a navigation), Ljubljana
 
 ## Past events
 
