@@ -48,6 +48,8 @@ For all workshops, we will record theoretical part and upload slides. Recordings
 
 Locations:
 * Marand - [Google maps](https://www.google.si/maps/place/Marand+d.o.o./@46.0328344,14.4834776,15z/data=!4m5!3m4!1s0x0:0x17ef4f29b9506011!8m2!3d46.0328344!4d14.4834776)
+Koprska ulica 100 (use street number 98 when using a navigation),
+1000 Ljubljana
 
 ## Meetups
 
