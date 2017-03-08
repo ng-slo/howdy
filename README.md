@@ -24,27 +24,11 @@ Maybe you've just heard of Angular or maybe you are a pro, everyone is welcome. 
 
 For all workshops, we will record theoretical part and upload slides. Recordings can be found on our [YouTube channel](https://www.youtube.com/channel/UCV7pUIUwOPPZpTUJufxZNLg). Exercises from practical part will be uploaded into [workshop repository](https://github.com/ng-slo/workshop) with a solution for them. This way if you can't attend a workshop, you can do it at home and if you will have any questions you can ask them on the next workshop.
 
-#### 07.03.2017 at 18:00 at Marand - Basic tools
-* Theoretical part: [@nejczdovc](https://github.com/NejcZdovc)
-* Practical part: [@nejczdovc](https://github.com/NejcZdovc) [@denkomanceski](https://github.com/denkomanceski)
-
 #### 16.03.2017 at 18:00 at Marand - ES6 & Typescript
 * Theoretical part: [@nejczdovc](https://github.com/NejcZdovc) [@rokburgar](https://github.com/rokburgar) (Celtra)
 * Practical part: [@nejczdovc](https://github.com/NejcZdovc) [@denkomanceski](https://github.com/denkomanceski) [@rokburgar](https://github.com/rokburgar)
 
-#### 21.03.2017 at 18:00 at Marand - RxJS
-* Theoretical part:  [@denkomanceski](https://github.com/denkomanceski)
-* Practical part: [@nejczdovc](https://github.com/NejcZdovc) [@denkomanceski](https://github.com/denkomanceski)
-
-#### 28.03.2017 at 18:00 at Marand - Angular CLI
-* Theoretical part: [@Brocco](https://github.com/Brocco) (core member of Angular CLI team)
-* Practical part: [@nejczdovc](https://github.com/NejcZdovc) [@denkomanceski](https://github.com/denkomanceski)
-
-#### 13.04.2017 at 18:00 - webpack
-* Theoretical part: [@TheLarkInn](https://github.com/TheLarkInn) (core member of webpack team)
-* Practical part: [@nejczdovc](https://github.com/NejcZdovc) [@denkomanceski](https://github.com/denkomanceski)
-
-#### more workshops comming soon...
+### [More workshops](https://github.com/ng-slo/workshop)
 
 ## Meetups
 
@@ -61,6 +45,10 @@ We will have meetups every 3 months. We will have talks and light talks, what is
 
 :computer: - workshop
 :family: - meetup
+
+#### :computer: [07.03.2017 - Basic tools] (https://www.meetup.com/ng-slo/events/237832036/)
+* Theoretical part: [@nejczdovc](https://github.com/NejcZdovc)
+* Practical part: [@nejczdovc](https://github.com/NejcZdovc) [@denkomanceski](https://github.com/denkomanceski)
 
 #### :family: [24.1.2017 - First Angular Slovenia meetup](https://www.meetup.com/ng-slo/events/236843238/)
 We will talk about how Angular 2+ works and what you can expect from this meetup group. You will find out what our plans are and what we would like to achieve.
