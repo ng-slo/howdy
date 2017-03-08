@@ -47,8 +47,8 @@ We will have meetups every 3 months. We will have talks and light talks, what is
 :family: - meetup
 
 #### :computer: [07.03.2017 - Basic tools] (https://www.meetup.com/ng-slo/events/237832036/)
-* Theoretical part: [@nejczdovc](https://github.com/NejcZdovc)
-* Practical part: [@nejczdovc](https://github.com/NejcZdovc) [@denkomanceski](https://github.com/denkomanceski)
+* Theoretical part: [@nejczdovc](https://github.com/NejcZdovc) - **[Slides](slides.com/ng-slo/workshop-1-basic-tools)**
+* Practical part: [@nejczdovc](https://github.com/NejcZdovc) [@denkomanceski](https://github.com/denkomanceski) - **[Exercises](https://github.com/ng-slo/workshop/blob/master/01-basic-tools/tasks.md)**
 
 #### :family: [24.1.2017 - First Angular Slovenia meetup](https://www.meetup.com/ng-slo/events/236843238/)
 We will talk about how Angular 2+ works and what you can expect from this meetup group. You will find out what our plans are and what we would like to achieve.
