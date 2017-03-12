@@ -2,7 +2,7 @@
 
 Hello everybody!
 
-This repo will be your compass through all our activities related to Angular Slovenia meetup. If you wish to be notified about changes and updates, subscribe to this repository.
+This repo will be your compass through all our activities related to Angular Slovenia meetup. If you wish to be notified about changes and updates, subscribe (watch) to this repository.
 
 If you have any questions please don't hesitate to reach out:
 * [Twitter](https://twitter.com/nejczdovc)
