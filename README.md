@@ -22,9 +22,9 @@ Maybe you've just heard of Angular or maybe you are a pro, everyone is welcome. 
 
 For all workshops, we will record theoretical part and upload slides. Recordings can be found on our [YouTube channel](https://www.youtube.com/channel/UCV7pUIUwOPPZpTUJufxZNLg). Exercises from practical part will be uploaded into [workshop repository](https://github.com/ng-slo/workshop) with a solution for them. This way if you can't attend a workshop, you can do it at home and if you will have any questions you can ask them on the next workshop.
 
-#### 16.03.2017 at 18:00 at Marand - ES6 & Typescript
-* Theoretical part: [@nejczdovc](https://github.com/NejcZdovc) [@rokburgar](https://github.com/rokburgar) (Celtra)
-* Practical part: [@nejczdovc](https://github.com/NejcZdovc) [@denkomanceski](https://github.com/denkomanceski) [@rokburgar](https://github.com/rokburgar)
+#### 21.03.2017 at 18:00 at Marand - RxJS
+* Theoretical part:  [@denkomanceski](https://github.com/denkomanceski)
+* Practical part: [@nejczdovc](https://github.com/NejcZdovc) [@denkomanceski](https://github.com/denkomanceski)
 
 ### [More workshops](https://github.com/ng-slo/workshop)
 
@@ -43,6 +43,10 @@ We will have meetups every 3 months. We will have talks and light talks, what is
 
 :computer: - workshop
 :family: - meetup
+
+#### :computer: [16.03.2017 at 18:00 at Marand - ES6 & Typescript](https://www.meetup.com/ng-slo/events/238336900/)
+* Theoretical part: [@nejczdovc](https://github.com/NejcZdovc) [@rokburgar](https://github.com/rokburgar) (Celtra) - **[Slides ES6](http://slides.com/rokburgar/deck-2)**, **[Slides TS](https://slides.com/ng-slo/workshop-2-ts)**
+* Practical part: [@nejczdovc](https://github.com/NejcZdovc) [@denkomanceski](https://github.com/denkomanceski) [@rokburgar](https://github.com/rokburgar) - **[Exercises](https://github.com/ng-slo/workshop/blob/master/02-es6-ts/exercises.md)**
 
 #### :computer: [07.03.2017 - Basic tools] (https://www.meetup.com/ng-slo/events/237832036/)
 * Theoretical part: [@nejczdovc](https://github.com/NejcZdovc) - **[Slides](slides.com/ng-slo/workshop-1-basic-tools)**
