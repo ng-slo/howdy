@@ -44,7 +44,7 @@ We will have meetups every 3 months. We will have talks and light talks, what is
 :computer: - workshop
 :family: - meetup
 
-#### :computer: [16.03.2017 at 18:00 at Marand - ES6 & Typescript](https://www.meetup.com/ng-slo/events/238336900/)
+#### :computer: [16.03.2017 - ES6 & Typescript](https://www.meetup.com/ng-slo/events/238336900/)
 * Theoretical part: [@nejczdovc](https://github.com/NejcZdovc) [@rokburgar](https://github.com/rokburgar) (Celtra) - **[Slides ES6](http://slides.com/rokburgar/deck-2)**, **[Slides TS](https://slides.com/ng-slo/workshop-2-ts)**
 * Practical part: [@nejczdovc](https://github.com/NejcZdovc) [@denkomanceski](https://github.com/denkomanceski) [@rokburgar](https://github.com/rokburgar) - **[Exercises](https://github.com/ng-slo/workshop/blob/master/02-es6-ts/exercises.md)**
 
