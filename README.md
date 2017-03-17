@@ -48,7 +48,7 @@ We will have meetups every 3 months. We will have talks and light talks, what is
 * Theoretical part: [@nejczdovc](https://github.com/NejcZdovc) [@rokburgar](https://github.com/rokburgar) (Celtra) - **[Slides ES6](http://slides.com/rokburgar/deck-2)**, **[Slides TS](https://slides.com/ng-slo/workshop-2-ts)**
 * Practical part: [@nejczdovc](https://github.com/NejcZdovc) [@denkomanceski](https://github.com/denkomanceski) [@rokburgar](https://github.com/rokburgar) - **[Exercises](https://github.com/ng-slo/workshop/blob/master/02-es6-ts/exercises.md)**
 
-#### :computer: [07.03.2017 - Basic tools] (https://www.meetup.com/ng-slo/events/237832036/)
+#### :computer: [07.03.2017 - Basic tools](https://www.meetup.com/ng-slo/events/237832036/)
 * Theoretical part: [@nejczdovc](https://github.com/NejcZdovc) - **[Slides](slides.com/ng-slo/workshop-1-basic-tools)**
 * Practical part: [@nejczdovc](https://github.com/NejcZdovc) [@denkomanceski](https://github.com/denkomanceski) - **[Exercises](https://github.com/ng-slo/workshop/blob/master/01-basic-tools/tasks.md)**
 
