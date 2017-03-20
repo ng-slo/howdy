@@ -34,6 +34,8 @@ Please join our [Meetup group](https://www.meetup.com/ng-slo/) and RSV to upcomi
 
 We will have meetups every 3 months. We will have talks and light talks, what is more, we will discuss what's currently happening on the Angular scene. Everyone is more than welcome to present a topic. Here is a **[submission form](https://docs.google.com/forms/d/e/1FAIpQLScTxdDM714_edJDJwxYlLBId-oee3OYTGls9j2rzD5KyiF4QQ/viewform)** for your talk. Don't wait, next meetup is approaching with a lightning speed.
 
+**Coming soon...**
+
 ## Locations
 
 ### Marand
