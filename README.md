@@ -22,8 +22,8 @@ Maybe you've just heard of Angular or maybe you are a pro, everyone is welcome. 
 
 For all workshops, we will record theoretical part and upload slides. Recordings can be found on our [YouTube channel](https://www.youtube.com/channel/UCV7pUIUwOPPZpTUJufxZNLg). Exercises from practical part will be uploaded into [workshop repository](https://github.com/ng-slo/workshop) with a solution for them. This way if you can't attend a workshop, you can do it at home and if you will have any questions you can ask them on the next workshop.
 
-#### 28.03.2017 at 18:00 at Marand - Angular CLI
-* Theoretical part: [@Brocco](https://github.com/Brocco) (core member of Angular CLI team)
+#### 13.04.2017 at 18:00 - webpack
+* Theoretical part: [@TheLarkInn](https://github.com/TheLarkInn) (core member of webpack team)
 * Practical part: [@nejczdovc](https://github.com/NejcZdovc) [@denkomanceski](https://github.com/denkomanceski)
 
 ### [More workshops](https://github.com/ng-slo/workshop)
@@ -45,6 +45,10 @@ We will have meetups every 3 months. We will have talks and light talks, what is
 
 :computer: - workshop
 :family: - meetup
+
+#### :computer: [28.03.2017 - Angular CLI](https://www.meetup.com/ng-slo/events/238627984/)
+* Theoretical part: [@Brocco](https://github.com/Brocco) (core member of Angular CLI team)
+* Practical part: [@nejczdovc](https://github.com/NejcZdovc) [@denkomanceski](https://github.com/denkomanceski) - **[Exercises](https://github.com/ng-slo/workshop/blob/master/04-angular-cli/exercises.md)**
 
 #### :computer: [21.03.2017 - RxJS](https://www.meetup.com/ng-slo/events/238512915/)
 * Theoretical part:  [@denkomanceski](https://github.com/denkomanceski) - **[Slide](http://slides.com/ng-slo/workshop-2-ts-4)**
