@@ -22,8 +22,8 @@ Maybe you've just heard of Angular or maybe you are a pro, everyone is welcome. 
 
 For all workshops, we will record theoretical part and upload slides. Recordings can be found on our [YouTube channel](https://www.youtube.com/channel/UCV7pUIUwOPPZpTUJufxZNLg). Exercises from practical part will be uploaded into [workshop repository](https://github.com/ng-slo/workshop) with a solution for them. This way if you can't attend a workshop, you can do it at home and if you will have any questions you can ask them on the next workshop.
 
-#### 13.04.2017 at 18:00 - webpack
-* Theoretical part: [@TheLarkInn](https://github.com/TheLarkInn) (core member of webpack team)
+#### 20.04.2017 at 18:00 at FRI P21 - Angular component |
+* Theoretical part: [@nejczdovc](https://github.com/NejcZdovc)
 * Practical part: [@nejczdovc](https://github.com/NejcZdovc) [@denkomanceski](https://github.com/denkomanceski)
 
 ### [More workshops](https://github.com/ng-slo/workshop)
@@ -41,10 +41,17 @@ We will have meetups every 3 months. We will have talks and light talks, what is
 ### Marand
 [Google maps](https://www.google.si/maps/place/Marand+d.o.o./@46.0328344,14.4834776,15z/data=!4m5!3m4!1s0x0:0x17ef4f29b9506011!8m2!3d46.0328344!4d14.4834776) - Koprska ulica 100 (use street number 98 when using a navigation), Ljubljana
 
+### FRI
+[Google maps](https://www.google.si/maps/place/Fakulteta+za+ra%C4%8Dunalni%C5%A1tvo+in+informatiko/@46.0501557,14.4689205,15z/data=!4m5!3m4!1s0x0:0xf3614360b12cc862!8m2!3d46.0501557!4d14.4689205) - Večna pot 113, Ljubljana
+
 ## Past events
 
 :computer: - workshop
 :family: - meetup
+
+#### :computer: [13.04.2017 at 18:00 - webpack](https://www.meetup.com/ng-slo/events/239155930/)
+* Theoretical part: [@TheLarkInn](https://github.com/TheLarkInn) (core member of webpack team)
+* Practical part: [@nejczdovc](https://github.com/NejcZdovc) [@denkomanceski](https://github.com/denkomanceski) - **[Exercises](https://github.com/ng-slo/workshop/blob/master/05-webpack/exercises.md)**
 
 #### :computer: [28.03.2017 - Angular CLI](https://www.meetup.com/ng-slo/events/238627984/)
 * Theoretical part: [@Brocco](https://github.com/Brocco) (core member of Angular CLI team)
